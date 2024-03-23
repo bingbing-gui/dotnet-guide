@@ -28,7 +28,7 @@
 5. 深受开发者喜欢
    >.NET 是一个现代化、创新性、开源的开发平台，深受开发者喜爱。在连续三年（2019年、2020年和2021年）的 Stack Overflow 开发者调查中，.NET 被评为排名第一的最受喜爱的框架。C# 荣获TIOBE 2023年度编程语言。
 # .NET 生态
-## Web应用程序
+## 服务器端应用程序
 1. ASP.NET Core
    + MVC
    + Blazor
@@ -39,8 +39,40 @@
    + WebSockets
    + GraphQL
    + GRPC
-## Windows桌面端应用程序
+## Windows客户端应用程序
 1. WinForm
 2. WPF
 3. WinUI
-
+## 跨平台应用程序
+1. UNO 平台
+2. .NET MAUI
+3. Avalonia UI
+## IOT(Internet of Things)应用程序
+1. .NET nanoFramework
+2. Meadow
+3. IoTSharp
+## 数据库
+1. 关系型数据库
+   + SQL Server
+   + Postgresql
+   + MySQL
+   + SQLite
+   + CosmosDB
+2. 非关系型数据库
+   + RevenDB
+   + MongoDB
+3. ORM 框架
+   + Entity Framework Core
+   + Dapper
+## AI/机器学习
+1. ML.NET
+## 游戏开发
+1. Unity
+2. Godot
+3. CryEngine
+4. Flax Engine
+5. Stride
+6. MonoGame
+7. evergine
+8. FlatRedBall
+9. rbfx
