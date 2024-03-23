@@ -45,8 +45,22 @@
 3. WinUI
 ## 跨平台应用程序
 1. UNO 平台
+   + Windows
+   + Linux
+   + iOS/MacOS
+   + Web
 2. .NET MAUI
+   + Windwos
+   + MacOS
+   + iOS
+   + Android
 3. Avalonia UI
+   + Windows
+   + macOS
+   + Linux
+   + iOS
+   + Android
+   + WebAssembly
 ## IOT(Internet of Things)应用程序
 1. .NET nanoFramework
 2. Meadow
