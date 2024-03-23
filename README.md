@@ -29,7 +29,7 @@
    >.NET 是一个现代化、创新性、开源的开发平台，深受开发者喜爱。在连续三年（2019年、2020年和2021年）的 Stack Overflow 开发者调查中，.NET 被评为排名第一的最受喜爱的框架。C# 荣获TIOBE 2023年度编程语言。
 # .NET 生态
 ## 服务器端应用程序
-1. ASP.NET Core
+1. [ASP.NET Core](https://github.com/dotnet/aspnetcore)
    + MVC
    + Blazor
    + Web API
@@ -40,21 +40,21 @@
    + GraphQL
    + GRPC
 ## Windows客户端应用程序
-1. WinForm
-2. WPF
-3. WinUI
+1. [WinForm](https://github.com/dotnet/winforms)
+2. [WPF](https://github.com/dotnet/wpf)
+3. [WinUI](https://github.com/microsoft/microsoft-ui-xaml)
 ## 跨平台应用程序
-1. UNO 平台
+1. [UNO Platform](https://github.com/unoplatform/uno)
    + Windows
    + Linux
    + iOS/MacOS
    + Web
-2. .NET MAUI
+2. [.NET MAUI](https://github.com/dotnet/maui)
    + Windwos
    + MacOS
    + iOS
    + Android
-3. Avalonia UI
+3. [Avalonia UI](https://github.com/AvaloniaUI/Avalonia)
    + Windows
    + macOS
    + Linux
@@ -62,9 +62,16 @@
    + Android
    + WebAssembly
 ## IOT(Internet of Things)应用程序
-1. .NET nanoFramework
-2. Meadow
-3. IoTSharp
+1. [.NET nanoFramework](https://github.com/nanoframework)
+2. [Meadow](https://github.com/WildernessLabs/Meadow.Foundation)
+3. [IoTSharp](https://github.com/IoTSharp/IoTSharp)
+5. [Azure IoT Edge](https://github.com/Azure/iotedge)
+6. [MQTTnet](https://github.com/dotnet/MQTTnet)
+7. [Device.Net](https://github.com/MelbourneDeveloper/Device.Net)
+8. [IoT Hub](https://github.com/Azure/azure-iot-sdks)
+9. [Azure Sphere](https://github.com/Azure/azure-sphere-samples)
+10. [Azure Digital Twins](https://github.com/Azure-Samples/digital-twins-samples)
+
 ## 数据库
 1. 关系型数据库
    + SQL Server
@@ -76,17 +83,25 @@
    + RevenDB
    + MongoDB
 3. ORM 框架
-   + Entity Framework Core
-   + Dapper
+   + [Entity Framework Core](https://github.com/dotnet/efcore)
+   + [Dapper](https://github.com/DapperLib/Dapper)
+   + [NHibernate](https://github.com/nhibernate/nhibernate-core)
+   + [Fluent NHibernate](https://github.com/FluentNHibernate/fluent-nhibernate)
+   + [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)
+   + [Marten](https://github.com/JasperFx/marten)
+   + [SqlSugar](https://github.com/sunkaixuan/SqlSugar)
+   + [FreeSql](https://github.com/2881099/FreeSql)   
 ## AI/机器学习
-1. ML.NET
+1. [ML.NET](https://github.com/dotnet/machinelearning)
+
 ## 游戏开发
-1. Unity
-2. Godot
-3. CryEngine
-4. Flax Engine
-5. Stride
-6. MonoGame
-7. evergine
-8. FlatRedBall
-9. rbfx
+1. [Unity](https://github.com/Unity-Technologies)
+2. [Godot](https://github.com/godotengine/godot)
+3. [CryEngine](https://github.com/CRYTEK)
+4. [Flax Engine](https://github.com/FlaxEngine/FlaxEngine)
+5. [Stride](https://github.com/stride3d/stride)
+6. [MonoGame](https://github.com/MonoGame/MonoGame)
+7. [evergine](https://github.com/everdevs)
+8. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
+9. [rbfx](https://github.com/rbfx/rbfx)
+
