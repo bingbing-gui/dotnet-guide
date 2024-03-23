@@ -76,17 +76,19 @@
    + Android
    + WebAssembly
 ## 控制台应用程序
-   1. System.Console
-   2. CommandLineParser
-   3. ConsoleFx
-   4. PowerArgs
-   5. CursesSharp
+   1. System.Console Micrsoft内置的控制台应用程序的接口类
+   2. [spectre.console](https://github.com/spectreconsole/spectre.console) 
+   3. [CommandLineParser](https://github.com/commandlineparser/commandline)
+   4. [PowerArgs](https://github.com/adamabdelhamed/PowerArgs)
+   5. [Colorful.Console](https://github.com/tomakita/Colorful.Console)
    6. 下面是使用C#开发的控制台应用程序的一些例子
       > [PowerShell](https://github.com/PowerShell/PowerShell)     
       > [dnSpy](https://github.com/dnSpy/dnSpy)     
-      > [NuGet](https://github.com/NuGet)     
+      > [NuGet](https://github.com/NuGet)
+      > [FluentTerminal](https://github.com/felixse/FluentTerminal)     
       > [Chocolatey](https://github.com/chocolatey/choco)     
       > [GitVersion](https://github.com/GitTools/GitVersion)
+      > [shellprogressbar](https://github.com/Mpdreamz/shellprogressbar)
 ## IOT(Internet of Things)应用程序
 1. [.NET nanoFramework](https://github.com/nanoframework)
 2. [Meadow](https://github.com/WildernessLabs/Meadow.Foundation)
