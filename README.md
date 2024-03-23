@@ -82,11 +82,11 @@
    4. PowerArgs
    5. CursesSharp
    6. 下面是使用C#开发的控制台应用程序的一些例子
-   > 6.1 [PowerShell](https://github.com/PowerShell/PowerShell)
-   > 6.2 [NuGet](https://github.com/NuGet)
-   > 6.3 [dnSpy](https://github.com/dnSpy/dnSpy)
-   > 6.4 [Chocolatey](https://github.com/chocolatey/choco)
-   > 6.5 [GitVersion](https://github.com/GitTools/GitVersion)
+      > [PowerShell](https://github.com/PowerShell/PowerShell)     
+      > [dnSpy](https://github.com/dnSpy/dnSpy)     
+      > [NuGet](https://github.com/NuGet)     
+      > [Chocolatey](https://github.com/chocolatey/choco)     
+      > [GitVersion](https://github.com/GitTools/GitVersion)
 ## IOT(Internet of Things)应用程序
 1. [.NET nanoFramework](https://github.com/nanoframework)
 2. [Meadow](https://github.com/WildernessLabs/Meadow.Foundation)
