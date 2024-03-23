@@ -118,7 +118,10 @@
    + [FreeSql](https://github.com/2881099/FreeSql)   
 ## AI/机器学习
 1. [ML.NET](https://github.com/dotnet/machinelearning)
-
+2. [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET)
+3. [CNTK (Microsoft Cognitive Toolkit)](https://github.com/microsoft/CNTK)
+4. [BotSharp](https://github.com/SciSharp/BotSharp)
+5. [NumSharp](https://github.com/SciSharp/NumSharp)
 ## 游戏开发
 1. [Unity](https://github.com/Unity-Technologies)
 2. [Godot](https://github.com/godotengine/godot)
