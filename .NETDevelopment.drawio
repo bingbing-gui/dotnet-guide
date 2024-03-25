@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="_dQujclmAbDN-xYh9aU0" name="Page-1">
-        <mxGraphModel dx="2285" dy="2124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="2285" dy="2124" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1193,8 +1193,11 @@
                 <mxCell id="334" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B37907;fontColor=#0d0c0c;" vertex="1" parent="1">
                     <mxGeometry x="840" y="2370" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="342" value=".NET Deveploment&lt;br&gt;author: 桂兵兵" style="text;strokeColor=#005700;fillColor=#008a00;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#ffffff;" vertex="1" parent="1">
-                    <mxGeometry x="-570" y="-754" width="250" height="85" as="geometry"/>
+                <mxCell id="342" value=".NET Deveploment&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-320" y="-860" width="230" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="343" value="Author: 桂兵兵" style="text;strokeColor=#fcfdfc;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="-860" width="220" height="65" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
