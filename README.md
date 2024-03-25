@@ -46,43 +46,59 @@
    + [docker](https://github.com/docker)
    + [containerd](https://github.com/containerd/containerd)
    + [cri-o](https://github.com/cri-o/cri-o)
-   + [linux containers](https://github.com/lxc/lxc)
+   + [firecracker](https://github.com/firecracker-microvm/firecracker)
+   + [gvisor](https://github.com/google/gvisor)
+   + [kata](https://github.com/kata-containers/kata-containers)
+   + [lima](https://github.com/lima-vm/lima)
+   + [lxd](https://github.com/canonical/lxd)
+   + [runC](https://github.com/opencontainers/runc)
    + [podman](https://github.com/containers/podman)
-   + [runc](https://github.com/opencontainers/runc)
 2. 容器编排
-   + Kubernetes (K8s)
-   + Amazon ECS
-   + Azure Kubernetes Service (AKS)
-   + Docker Swarm
-   + Google Kubernetes Engine (GKE)
+   + [Kubernetes](https://github.com/kubernetes/kubernetes)
+   + [OpenShift](https://github.com/openshift)
+   + [Nomad](https://github.com/hashicorp/nomad)
+   + [Docker Swarm](https://docs.docker.com/engine/swarm/)
+   + [Docker Compose](https://github.com/docker/compose)
+   + [Minikube](https://github.com/kubernetes/minikube)
+   + [Marathon](https://github.com/mesosphere/marathon)
+   + [Cloudify](https://github.com/cloudify-cosmo)
+   + [rancher](https://github.com/rancher/rancher)
+   + 阿里云ACK
+   + 亚马逊云EKS
+   + 谷歌云GKE
+   + 微软云AKS
 ## Windows客户端应用程序
 1. [WinForm](https://github.com/dotnet/winforms)
 2. [WPF](https://github.com/dotnet/wpf)
 3. [WinUI](https://github.com/microsoft/microsoft-ui-xaml)
 ## 跨平台应用程序
-1. [UNO Platform](https://github.com/unoplatform/uno)
+1. [.NET MAUI](https://github.com/dotnet/maui)
    + Windows
-   + Linux
-   + iOS/MacOS
-   + Web
-2. [.NET MAUI](https://github.com/dotnet/maui)
-   + Windwos
    + MacOS
    + iOS
    + Android
-3. [Avalonia UI](https://github.com/AvaloniaUI/Avalonia)
+2. [UNO Platform](https://github.com/unoplatform/uno)
    + Windows
-   + macOS
-   + Linux
+   + MacOS
    + iOS
    + Android
    + WebAssembly
+   + Linux
+   + Tizen
+3. [Avalonia UI](https://github.com/AvaloniaUI/Avalonia)
+   + Windows
+   + MacOS
+   + iOS
+   + Android
+   + WebAssembly
+   + Linux 
 ## 控制台应用程序
-   1. System.Console Micrsoft内置的控制台应用程序的接口类
+   1. System.Console 
+      >  Micrsoft内置的控制台应用程序的接口类
    2. [spectre.console](https://github.com/spectreconsole/spectre.console) 
    3. [CommandLineParser](https://github.com/commandlineparser/commandline)
-   4. [PowerArgs](https://github.com/adamabdelhamed/PowerArgs)
-   5. [Colorful.Console](https://github.com/tomakita/Colorful.Console)
+   4. [Colorful.Console](https://github.com/tomakita/Colorful.Console)
+   5. [PowerArgs](https://github.com/adamabdelhamed/PowerArgs)
    6. 下面是使用C#开发的控制台应用程序的一些例子
       > [PowerShell](https://github.com/PowerShell/PowerShell)     
       > [dnSpy](https://github.com/dnSpy/dnSpy)     
@@ -92,15 +108,12 @@
       > [GitVersion](https://github.com/GitTools/GitVersion)
       > [shellprogressbar](https://github.com/Mpdreamz/shellprogressbar)
 ## IOT(Internet of Things)应用程序
-1. [.NET nanoFramework](https://github.com/nanoframework)
-2. [Meadow](https://github.com/WildernessLabs/Meadow.Foundation)
-3. [IoTSharp](https://github.com/IoTSharp/IoTSharp)
-5. [Azure IoT Edge](https://github.com/Azure/iotedge)
-6. [MQTTnet](https://github.com/dotnet/MQTTnet)
-7. [Device.Net](https://github.com/MelbourneDeveloper/Device.Net)
-8. [IoT Hub](https://github.com/Azure/azure-iot-sdks)
-9. [Azure Sphere](https://github.com/Azure/azure-sphere-samples)
-10. [Azure Digital Twins](https://github.com/Azure-Samples/digital-twins-samples)
+1. [System.Device.Gpio](https://github.com/dotnet/iot)
+2. [.NET nanoFramework](https://github.com/nanoframework)
+3. [Meadow](https://github.com/WildernessLabs/Meadow.Foundation)
+4. [IoTSharp](https://github.com/IoTSharp/IoTSharp)
+5. [MQTTnet](https://github.com/dotnet/MQTTnet)
+6. [Device.Net](https://github.com/MelbourneDeveloper/Device.Net)
 ## 数据库
 1. 关系型数据库
    + SQL Server
