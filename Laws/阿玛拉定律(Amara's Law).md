@@ -7,4 +7,11 @@
 阿马拉定律指出人们往往高估新技术的短期影响，而低估其长期影响。该定律提醒人们在预测技术进步时要考虑更广泛的背景和时间表。
 ## Amara's Law in Action
 阿玛拉定律已经被证实的几个例子 
-1. 
+1. 互联网：在早期，人们并没有充分发挥互联网的潜力，如今，它彻底改变了人们的沟通方式、商业以及生活的各个方面。
+2. 人工智能：1960年人工智能刚开始的时候，人们对其非常憧憬，最终结果并不像想想那样，如今，人工智能的进展有可能改变整个行业和我们的日常生活。
+3. 电动车：电动车的出现要比内燃机早，早在19世纪，在欧美电动车发展得到了较为广泛的运用，但是后来随着内燃机的发展以及石油的开采，电动车的发展停滞，如今随着技术的进去以及环境面临污染的问题，电动车在慢慢成为主流。
+
+## 引用
+- [https://deviq.com/laws/amaras-law](https://deviq.com/laws/amaras-law)
+- [https://zh.wikipedia.org/zh-cn/%E7%BE%85%E4%BC%8A%C2%B7%E9%98%BF%E7%91%AA%E6%8B%89](https://zh.wikipedia.org/zh-cn/%E7%BE%85%E4%BC%8A%C2%B7%E9%98%BF%E7%91%AA%E6%8B%89)
+- [https://zh.wikipedia.org/zh-cn/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6](https://zh.wikipedia.org/zh-cn/%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6)
