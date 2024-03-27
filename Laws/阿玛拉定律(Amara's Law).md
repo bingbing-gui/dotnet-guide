@@ -20,6 +20,7 @@
 ***总结，阿马拉定律告诉我们在做新技术评估时不要局限于眼前，而要从长远利益考虑。
 通过保持信息灵通、保持耐心和批判性，我们可以更好地驾驭技术世界，
 并为我们的未来做出更明智的决策。***
+
 ## 引用
 - [https://deviq.com/laws/amaras-law](https://deviq.com/laws/amaras-law)
 - [https://zh.wikipedia.org/zh-cn/%E7%BE%85%E4%BC%8A%C2%B7%E9%98%BF%E7%91%AA%E6%8B%89](https://zh.wikipedia.org/zh-cn/%E7%BE%85%E4%BC%8A%C2%B7%E9%98%BF%E7%91%AA%E6%8B%89)
