@@ -149,4 +149,46 @@
 7. [evergine](https://github.com/everdevs)
 8. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
 9. [rbfx](https://github.com/rbfx/rbfx)
+# Windows 客户端生态
+> 下面以WPF(Windows Presentation Foundation)控件为例, 大部分都包含Winform只有个别没有，不过作者还是推荐使用WPF进行开发
+
+## UI控件库
+1. 微软Visual Studio开发工具自带原生控件(免费)。
+2. [DevExpress WPF 控件](https://www.devexpress.com/products/net/controls/wpf/) (付费，商业)DevExpress UI库提供超过130个UI控件和工具，可帮助您交付高性能的企业级应用程序，满足并超越您企业的需求。
+3. [Telerik WPF 控件](https://www.telerik.com/products/wpf/overview.aspx) (付费，商业)Telerik UI 为您提供了构建美观且高性能的WPF应用程序的能力，同时支持最新的.NET版本。
+4. [Actipro WPF 控件](https://www.actiprosoftware.com/products/controls/wpf) (商业，付费)提供丰富的UI控件，助力打造精美的WPF桌面应用程序。
+5. [ComponentOne Studio WPF控件](https://developer.mescius.com/componentone/wpf-ui-controls) （商业，付费）拥有超过100个WPF UI控件。
+6. [Syncfusion WPF 控件](https://www.syncfusion.com/wpf-controls) (商业，付费)提供超过100个现代化的WPF UI控件，助力打造漂亮、高性能的企业级WPF应用程序。
+7. [Ultimate WPF 控件(付费，商业)](https://www.infragistics.com/products/wpf) (商业，付费)创建高性能、仿微软® Office的桌面和触摸设备应用程序。包含100多个WPF控件库，包括高速网格和图表，以及动态数据可视化。
+8. [Adonis-UI](https://github.com/benruehl/adonis-ui) (免费、开源)提供给WPF应用程序的轻量级UI工具包，提供了经典但增强的Windows视觉效果。
+9. [Extended WPF Toolkit](https://github.com/xceedsoftware/wpftoolkit) (非商用免费，开源)用于创建下一代Windows应用程序的WPF控件、组件和实用工具。
+10. [ControlzEx](https://github.com/ControlzEx/ControlzEx) (免费、开源)WPF一套组件。
+11. [HandyControl](https://github.com/handyOrg/HandyControl) (免费、开源)包含一些常用的简单WPF控件。
+12. [Material Design In XAML Toolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) (免费、开源)Material Design UI库和样式以及额外控件
+13. [Material Design Extensions](https://github.com/spiegelp/MaterialDesignExtensions) (免费、开源)Material Design Extensions基于Material Design in XAML Toolkit扩展，为WPF应用程序提供额外的控件和功能。
+14. [ModernWPF UI Library](https://github.com/Kinnara/ModernWpf) (免费、开源)一套WPF控件和样式库。
+15. [Nevron UI for Win/Mac](https://www.nevron.com/products-open-vision-wpf-ui-controls-overview.aspx) (免费)Nevron WPF用户界面组件 | NOV .NET用户界面。
+16. [Ookii Dialogs WPF](https://github.com/ookii-dialogs/ookii-dialogs-wpf) (免费、开源)包含了WPF应用程序常用的对话框的类。
+17. [WPFSpark](https://github.com/ratishphilip/wpfspark) (免费、开源)一个丰富的UserControl库，用于增强WPF应用程序的外观和感觉。
+18. [WPF UI](https://github.com/lepoco/wpfui) (免费、开源)基于现代微软Fluent Design系统的WPF应用程序的现代样式和控件。这是使您的WPF应用程序跟上现代设计趋势的简单方法。界面设计、颜色选择和控件外观受到了微软为Windows 11制作的项目的启发。
+
+## 单个控件
+1. [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) (免费，开源)AvalonEdit是一款WPF的文本编辑器组件。
+2. [CefSharp](https://github.com/cefsharp/cefsharp) (免费，开源)CefSharp可以将Chromium浏览器嵌入到WPF和Winform控件中。
+3. [ffmediaelement](https://github.com/unosquare/ffmediaelement) (免费，开源)ffmediaelement是一款基于FFmpeg的媒体播放器。
+4. [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) (免费，开源)Fluent.Ribbon是一款类似于Office一个控件。
+5. [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) (开源、免费) LiveCharts2是.NET跨平台的一个图形控件。
+6. [ScottPlot](https://github.com/scottplot/scottplot/) (开源、免费) ScottPlot是一个交互式的图形库。
+## WPF 开发框架
+1. [Prism](https://github.com/PrismLibrary/Prism) (开源、免费)Prism是一个框架，用于在WPF和Xamarin Forms中构建松散耦合、可维护和可测试的XAML应用程序。
+2. [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) (免费，开源)Caliburn.Micro是一个小巧却功能强大的框架，专为跨所有XAML平台构建应用程序而设计。它对MV*模式提供了强大支持，使您能够快速构建解决方案，而不必牺牲代码质量或可测试性。
+3. [FluentWPF](https://github.com/sourcechord/FluentWPF) (免费，开源)WPF的流畅设计系统
+4. [MvvmCross](https://github.com/MvvmCross/MvvmCross) (免费，开源)MvvmCross是一个跨平台解决方案的.NET MVVM框架，包括Xamarin.iOS、Xamarin.Android、Windows和Mac。
+5. [ReactiveUI](https://github.com/reactiveui/reactiveui)（免费，开源）ReactiveUI是一个先进的、模块化、函数式响应式MVVM框架，适用于所有.NET平台！
+6. [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) (免费、开源)Mahapps.Metro是一个WPF框架，让开发者能够用更少的工作量为他们的WPF应用程序创建出更好的UI
+7. [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) 提供了拖拽式开发解决方案
+
+## 引用
+1. https://github.com/Carlos487/awesome-wpf 
+2. https://github.com/tbolon/awesome-dotnet-winforms
 
