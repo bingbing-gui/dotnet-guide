@@ -151,7 +151,7 @@
 9. [rbfx](https://github.com/rbfx/rbfx)
 # Windows 客户端生态
 ## 思维导图
-![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/ClientDevelopment.png)
+![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/WinClientDevelopment.png)
 ## UI控件库
 1. 微软Visual Studio开发工具自带原生控件(免费)。
 2. [DevExpress WPF 控件](https://www.devexpress.com/products/net/controls/wpf/) (付费，商业)DevExpress UI库提供超过130个UI控件和工具，可帮助您交付高性能的企业级应用程序，满足并超越您企业的需求。
