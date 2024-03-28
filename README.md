@@ -28,7 +28,7 @@
 5. 深受开发者喜欢
    >.NET 是一个现代化、创新性、开源的开发平台，深受开发者喜爱。在连续三年（2019年、2020年和2021年）的 Stack Overflow 开发者调查中，.NET 被评为排名第一的最受喜爱的框架。C# 荣获TIOBE 2023年度编程语言。
 # .NET 可以构建哪些类型应用程序
-## Mindmap
+## 思维导图
 ![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/.NETDevelopment.png)
 ## 服务器端应用程序
 1. [ASP.NET Core](https://github.com/dotnet/aspnetcore)
@@ -150,7 +150,7 @@
 8. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
 9. [rbfx](https://github.com/rbfx/rbfx)
 # Windows 客户端生态
-## Mindmap
+## 思维导图
 ![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/WindowClientDevelopment.png)
 ## UI控件库
 1. 微软Visual Studio开发工具自带原生控件(免费)。
