@@ -180,7 +180,7 @@
 5. [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) (开源、免费) LiveCharts2是.NET跨平台的一个图形控件。
 6. [ScottPlot](https://github.com/scottplot/scottplot/) (开源、免费) ScottPlot是一个交互式的图形库。
 ## WPF 开发框架
-1. [Prism](https://github.com/PrismLibrary/Prism) (开源、免费)Prism是一个框架，用于在WPF和Xamarin Forms中构建松散耦合、可维护和可测试的XAML应用程序。
+1. [Prism](https://github.com/PrismLibrary/Prism) (开源、收费)Prism是一个框架，用于在WPF和Xamarin Forms中构建松散耦合、可维护和可测试的XAML应用程序。
 2. [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) (免费，开源)Caliburn.Micro是一个小巧却功能强大的框架，专为跨所有XAML平台构建应用程序而设计。它对MV*模式提供了强大支持，使您能够快速构建解决方案，而不必牺牲代码质量或可测试性。
 3. [FluentWPF](https://github.com/sourcechord/FluentWPF) (免费，开源)WPF的流畅设计系统
 4. [MvvmCross](https://github.com/MvvmCross/MvvmCross) (免费，开源)MvvmCross是一个跨平台解决方案的.NET MVVM框架，包括Xamarin.iOS、Xamarin.Android、Windows和Mac。
