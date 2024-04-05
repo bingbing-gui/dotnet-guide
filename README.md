@@ -188,7 +188,14 @@
 6. [Mahapps.Metro](https://github.com/MahApps/MahApps.Metro) (免费、开源)Mahapps.Metro是一个WPF框架，让开发者能够用更少的工作量为他们的WPF应用程序创建出更好的UI
 7. [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) 提供了拖拽式开发解决方案
 
-## 引用
+# 通信框架
+## Graphql
+
+## Grpc
+## Rest
+## WebSocket
+
+# 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
 
