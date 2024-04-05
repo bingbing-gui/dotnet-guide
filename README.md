@@ -190,9 +190,15 @@
 
 # 通信框架
 ## Graphql
-
+1. [Graphql DotNet](https://github.com/graphql-dotnet/graphql-dotnet)
+2. [ChilliCream Graphql Platform](https://github.com/ChilliCream/graphql-platform)
 ## Grpc
+1. [Grpc DotNet](https://github.com/grpc/grpc-dotnet/tree/master)
+2. [MagicOnion](https://github.com/Cysharp/MagicOnion)
 ## Rest
+1. [RestSharp](https://github.com/restsharp/RestSharp)
+2. [Refit](https://github.com/reactiveui/refit)
+3. [Flurl](https://github.com/tmenier/Flurl)
 ## WebSocket
 
 # 引用
