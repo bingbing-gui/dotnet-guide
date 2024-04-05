@@ -189,7 +189,7 @@
 7. [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) 提供了拖拽式开发解决方案
 
 # 通信框架
-## Graphql
+## GraphQL
 1. [Graphql DotNet](https://github.com/graphql-dotnet/graphql-dotnet)
 2. [ChilliCream Graphql Platform](https://github.com/ChilliCream/graphql-platform)
 ## Grpc
@@ -200,7 +200,8 @@
 2. [Refit](https://github.com/reactiveui/refit)
 3. [Flurl](https://github.com/tmenier/Flurl)
 ## WebSocket
-
+1. [ASP.NET SignalR](https://github.com/dotnet/aspnetcore/tree/main/src/SignalR)
+2. [ASP.NET Core中支持WebSockets](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-8.0)
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
