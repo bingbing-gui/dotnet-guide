@@ -190,19 +190,35 @@
 
 # 通信框架
 ## GraphQL
+> GraphQL是一个开源的，面向API而创造出来的数据查询操作语言以及相应的运行环境。于2012年仍处于Facebook内部开发阶段，直到2015年才公开发布。2018年11月7日，Facebook将GraphQL项目转移到新成立的GraphQL基金会（隶属于非营利性的Linux基金会）。GraphQL相较于REST以及其他web service架构提供了一种更加高效、强大和灵活的开发web APIs的方式。它通过由客户端根据所需定义数据结构，同时由服务端负责返回相同数据结构的对应数据的方式避免了服务端大量冗余数据的返回，但与此同时也意味着这种方式不能有效利用查询结果的web缓存。GraphQL这种查询语言所带来的灵活性和丰富性的同时也增加了复杂性，导致简单的APIs有可能并不适合这种方式。
 1. [Graphql DotNet](https://github.com/graphql-dotnet/graphql-dotnet)
 2. [ChilliCream Graphql Platform](https://github.com/ChilliCream/graphql-platform)
 ## Grpc
+> gRPC (gRPC Remote Procedure Calls) 是一个跨平台的开源高性能远程过程调用（RPC）框架。
+gRPC最初由Google创建，它使用一个通用的RPC基础设施Stubby来连接其数据中心内外运行的大量微服务，始于2001年。2015年3月，Google决定构建下一个版本的Stubby并将其开源，于是就有了gRPC。现在除了Google之外，许多组织都在使用它来支持从微服务到计算的“最后一英里”（移动、Web和物联网）的用例。gRPC基于HTTP/2协议传输数据，使用Protocol Buffers作为接口描述语言，并提供认证（authentication）、双向流（bidirectional streaming）和流量控制、阻塞或非阻塞绑定以及取消和超时（Deadlines）等功能。它为许多语言生成跨平台的客户端和服务器绑定。最常见的使用场景包括在微服务风格的架构中连接服务，或将移动设备客户端连接到后端服务。
+gRPC对HTTP/2的复杂使用使得在浏览器中无法实现gRPC客户端，而需要使用代理。
+最常见的应用场景是：
+微服务框架下，多种语言服务之间的高效交互。
+将手机服务、浏览器连接至后台
+产生高效的客户端库
 1. [Grpc DotNet](https://github.com/grpc/grpc-dotnet/tree/master)
 2. [MagicOnion](https://github.com/Cysharp/MagicOnion)
 ## Rest
+> Representational State Transfer缩写：REST，是Roy Thomas Fielding博士于2000年在他的博士论文中提出来的一种万维网软件架构风格，目的是便于不同软件/程序在网络（例如互联网）中互相传递信息。表现层状态转换是根基于超文本传输协议（HTTP）之上而确定的一组约束和属性，是一种设计提供万维网络服务的软件构建风格。符合或兼容于这种架构风格（简称为 REST 或 RESTful）的网络服务，允许客户端发出以统一资源标识符访问和操作网络资源的请求，而与预先定义好的无状态操作集一致 
+化。因此表现层状态转换提供了在互联网络的计算系统之间，彼此资源可交互使用的协作性质（interoperability）。相对于其它种类的网络服务，例如SOAP服务，则是以本身所定义的操作集，来访问网络上的资源。
+目前在三种主流的Web服务实现方案中，因为REST模式与复杂的SOAP和XML-RPC相比更加简洁，越来越多的Web服务开始采用REST风格设计和实现。例如，Amazon.com提供接近REST风格的Web服务执行图书查询；雅虎提供的Web服务也是REST风格的。
 1. [RestSharp](https://github.com/restsharp/RestSharp)
 2. [Refit](https://github.com/reactiveui/refit)
 3. [Flurl](https://github.com/tmenier/Flurl)
 ## WebSocket
+> WebSocket是一种网络传输协议，可在单个TCP连接上进行全双工通信，位于OSI模型的应用层。WebSocket协议在2011年由IETF标准化为RFC 6455，后由RFC 7936补充规范。Web IDL中的WebSocket API由W3C标准化。
+WebSocket使得客户端和服务器之间的数据交换变得更加简单，允许服务端主动向客户端推送数据。在WebSocket API中，浏览器和服务器只需要完成一次握手，两者之间就可以建立持久性的连接，并进行双向数据传输。
 1. [ASP.NET SignalR](https://github.com/dotnet/aspnetcore/tree/main/src/SignalR)
 2. [ASP.NET Core中支持WebSockets](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-8.0)
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
-
+3. https://zh.wikipedia.org/zh-cn/GraphQL
+4. https://zh.wikipedia.org/zh-cn/GRPC
+5.https://zh.wikipedia.org/zh-cn/%E8%A1%A8%E7%8E%B0%E5%B1%82%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2
+6.https://zh.wikipedia.org/zh-cn/WebSocket
