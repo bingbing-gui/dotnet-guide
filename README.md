@@ -220,5 +220,5 @@ WebSocket使得客户端和服务器之间的数据交换变得更加简单，�
 2. https://github.com/tbolon/awesome-dotnet-winforms
 3. https://zh.wikipedia.org/zh-cn/GraphQL
 4. https://zh.wikipedia.org/zh-cn/GRPC
-5.https://zh.wikipedia.org/zh-cn/%E8%A1%A8%E7%8E%B0%E5%B1%82%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2
-6.https://zh.wikipedia.org/zh-cn/WebSocket
+5. https://zh.wikipedia.org/zh-cn/%E8%A1%A8%E7%8E%B0%E5%B1%82%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2
+6. https://zh.wikipedia.org/zh-cn/WebSocket
