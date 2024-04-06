@@ -193,7 +193,7 @@
 > GraphQL是一个开源的，面向API而创造出来的数据查询操作语言以及相应的运行环境。于2012年仍处于Facebook内部开发阶段，直到2015年才公开发布。2018年11月7日，Facebook将GraphQL项目转移到新成立的GraphQL基金会（隶属于非营利性的Linux基金会）。GraphQL相较于REST以及其他web service架构提供了一种更加高效、强大和灵活的开发web APIs的方式。它通过由客户端根据所需定义数据结构，同时由服务端负责返回相同数据结构的对应数据的方式避免了服务端大量冗余数据的返回，但与此同时也意味着这种方式不能有效利用查询结果的web缓存。GraphQL这种查询语言所带来的灵活性和丰富性的同时也增加了复杂性，导致简单的APIs有可能并不适合这种方式。
 1. [Graphql DotNet](https://github.com/graphql-dotnet/graphql-dotnet)
 2. [ChilliCream Graphql Platform](https://github.com/ChilliCream/graphql-platform)
-## Grpc
+## gRPC
 > gRPC (gRPC Remote Procedure Calls) 是一个跨平台的开源高性能远程过程调用（RPC）框架。
 gRPC最初由Google创建，它使用一个通用的RPC基础设施Stubby来连接其数据中心内外运行的大量微服务，始于2001年。2015年3月，Google决定构建下一个版本的Stubby并将其开源，于是就有了gRPC。现在除了Google之外，许多组织都在使用它来支持从微服务到计算的“最后一英里”（移动、Web和物联网）的用例。gRPC基于HTTP/2协议传输数据，使用Protocol Buffers作为接口描述语言，并提供认证（authentication）、双向流（bidirectional streaming）和流量控制、阻塞或非阻塞绑定以及取消和超时（Deadlines）等功能。它为许多语言生成跨平台的客户端和服务器绑定。最常见的使用场景包括在微服务风格的架构中连接服务，或将移动设备客户端连接到后端服务。
 gRPC对HTTP/2的复杂使用使得在浏览器中无法实现gRPC客户端，而需要使用代理。
