@@ -97,7 +97,8 @@ public void Subscribe3(User user, Subscription subscription, Term term)
 随着项目的不断演进，您可以继续添加额外的辅助方法覆盖别的应用场景，例如空字符串、负数、无效枚举值等。
 
 # 第三方 Ardalis.GuardClauses 包
-
+> Ardalis.GuardClauses一个Guard Clause的可扩展包。Guard Clause是一种软件模式，简化复杂验证功能。
+源代码地址如下：[Ardalis.GuardClauses](https://github.com/ardalis/GuardClauses)
 ## 引用
 1. https://deviq.com/design-patterns/guard-clause
-2. 
+2. https://github.com/ardalis/GuardClauses
