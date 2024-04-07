@@ -1,2 +1,33 @@
 # Guard Clause 设计模式
 当业务增长导致代码变得臃肿且复杂时，函数作为最小的可执行单元，其易读性变得尤为重要。函数的清晰性可以通过良好的命名和结构来实现，而Guard Clauses设计模式则是简化复杂性的一种有效手段。通过使用Guard Clauses，我们可以在函数开始处进行预判并立即返回或抛出异常，以确保函数仅在有效条件下执行，避免深度嵌套的if和switch语句。进一步的优化是通过反转流程，即编写主逻辑而将错误情况作为else语句处理，使得代码更加简洁、清晰，减少了深层嵌套和沉长的可能性。
+```
+public void Subscribe(User user, Subscription subscription, Term term)
+{
+    if (user != null)
+    {
+        if (subscription != null)
+        {
+            if (term == Term.Annually)
+            {
+                // subscribe annually
+            }
+            else if (term == Term.Monthly)
+            {
+                // subscribe monthly
+            }
+            else
+            {
+                throw new InvalidEnumArgumentException(nameof(term));
+            }
+        }
+        else
+        {
+            throw new ArgumentNullException(nameof(subscription));
+        }
+    }
+    else
+    {
+        throw new ArgumentNullException(nameof(user));
+    }
+}
+```
