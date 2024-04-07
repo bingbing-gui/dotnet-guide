@@ -17,4 +17,4 @@ $speedup=\frac{1 }{\(1-P)+ \frac{P}{N}}$
 
 # 引用
 1. https://deviq.com/laws/amdahls-law#use-cases
-2. 
+2. https://zh.wikipedia.org/zh-cn/%E5%90%89%E6%81%A9%C2%B7%E9%98%BF%E5%A7%86%E9%81%94%E7%88%BE
