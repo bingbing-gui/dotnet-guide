@@ -47,4 +47,4 @@
 
 ## 引用
 1. https://movie.douban.com/celebrity/1471681/
-2. 
+2. https://deviq.com/laws/andersons-law
