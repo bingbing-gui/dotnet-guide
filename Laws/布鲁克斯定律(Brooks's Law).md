@@ -15,6 +15,9 @@
 这个图片提供了表示一个虚拟交流的线在大于2个人的团队：
 ![this is image](https://github.com/bingbing-gui/dotnet-guide/blob/main/Laws/Images/Brooks's%20Law.jpg)
 > 备注：该图片来自于 https://deviq.com/laws/brooks-law
+
+显然，随着团队规模的增加，沟通成本会急剧增加，从而减少了用于其它任务（如编程）的时间。这就是团队规模应该受到限制的原因之一。然而，一旦一个组织发展到需要多个团队的程度，康威定律就开始发挥作用。
+
 ## 引用
 1. https://deviq.com/laws/brooks-law
 2. https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E7%91%9E%E5%BE%B7%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF
