@@ -13,7 +13,7 @@
 3. 任务碎片化：增加更多的开发人员可能会导致任务被分解成更小的部分，这并不能提高效率。
 这个图片提供了一个虚拟表示交流的线在大于2个人的团队：
 > 备注：该图片来自于 https://deviq.com/laws/brooks-law
-
+![this is image](https://github.com/bingbing-gui/dotnet-guide/blob/main/Laws/Images/Brooks's%20Law.jpg)
 ## 引用
 1. https://deviq.com/laws/brooks-law
 2. https://zh.wikipedia.org/zh-cn/%E4%BD%9B%E7%91%9E%E5%BE%B7%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF
