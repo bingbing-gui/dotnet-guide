@@ -19,7 +19,7 @@
   + Visual Studio
   + Visual Studio Code
   + JetBrains Rider
-## dotnet和dotnet framework的区别
+## .NET和.NET Framework的区别
  |.NET|.NET Framework|
  |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
  |运行在Linux、macOS & Windows|仅仅运行在Windows|
