@@ -1,16 +1,16 @@
 # dotnet-guide
 
 # 目录
-* [dotnet-guide](#awesome-dotnet)
-  * [.NET 介绍](#.NET 介绍)
-  * [.NET和.NET Framework的区别](#.NET和.NET Framework的区别)
+* [dotnet-guide](#dotnet-guide)
+  * [.NET 介绍](#.NET介绍)
+  * [.NET和.NET Framework的区别](#.NET和.NETFramework的区别)
   * [为什么要选择.NET](#为什么要选择.NET)
-  * [.NET 可以构建哪些类型应用程序](#.NET 可以构建哪些类型应用程序)
-  * [Windows 客户端生态](#Windows 客户端生态)
+  * [.NET 可以构建哪些类型应用程序](#.NET可以构建哪些类型应用程序)
+  * [Windows 客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
-* [Other Lists](#other-lists)
+* [引用](#引用)
 
-## .NET 介绍
+## .NET介绍
 .NET是一个免费、开源 & 跨平台的开发框架。
 + 编程语言
   + C#
