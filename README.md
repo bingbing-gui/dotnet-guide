@@ -2,7 +2,7 @@
 
 # 目录
 * [dotnet-guide](#dotnet-guide)
-  * [.NET介绍](#.NET介绍)
+  * [dotnet介绍](#dotnet介绍)
   * [.NET和.NETFramework的区别](#.NET和.NETFramework的区别)
   * [为什么要选择.NET](#为什么要选择.NET)
   * [.NET可以构建哪些类型应用程序](#.NET可以构建哪些类型应用程序)
