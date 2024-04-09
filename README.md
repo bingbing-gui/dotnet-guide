@@ -8,6 +8,7 @@
   * [.NET可以构建哪些类型应用程序](#NET可以构建哪些类型应用程序)
   * [Windows客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
+  * [Excel和CSV处理库](#Excel和CSV处理库)
 * [引用](#引用)
 
 ## .NET介绍
@@ -227,10 +228,10 @@ gRPC对HTTP/2的复杂使用使得在浏览器中无法实现gRPC客户端，而
 WebSocket使得客户端和服务器之间的数据交换变得更加简单，允许服务端主动向客户端推送数据。在WebSocket API中，浏览器和服务器只需要完成一次握手，两者之间就可以建立持久性的连接，并进行双向数据传输。
 1. [ASP.NET SignalR](https://github.com/dotnet/aspnetcore/tree/main/src/SignalR)
 2. [ASP.NET Core中支持WebSockets](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/websockets?view=aspnetcore-8.0)
-## CSV文件处理
-1. [CSVHepler](https://github.com/JoshClose/CsvHelper)
-## Excel文件处理
+## Excel和CSV处理库
 1. [EPPlus](https://github.com/EPPlusSoftware/EPPlus)
+2. [CSVHepler](https://github.com/JoshClose/CsvHelper)
+
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
