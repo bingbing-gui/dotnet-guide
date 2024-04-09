@@ -2,10 +2,10 @@
 
 # 目录
 * [dotnet-guide](#dotnet-guide)
-  * [.NET 介绍](#.NET介绍)
-  * [.NET和.NET Framework的区别](#.NET和.NETFramework的区别)
+  * [.NET介绍](#.NET介绍)
+  * [.NET和.NETFramework的区别](#.NET和.NETFramework的区别)
   * [为什么要选择.NET](#为什么要选择.NET)
-  * [.NET 可以构建哪些类型应用程序](#.NET可以构建哪些类型应用程序)
+  * [.NET可以构建哪些类型应用程序](#.NET可以构建哪些类型应用程序)
   * [Windows 客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
 * [引用](#引用)
@@ -19,7 +19,7 @@
   + Visual Studio
   + Visual Studio Code
   + JetBrains Rider
-## .NET和.NET Framework的区别
+## .NET和.NETFramework的区别
  |.NET|.NET Framework|
  |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
  |运行在Linux、macOS & Windows|仅仅运行在Windows|
@@ -39,7 +39,7 @@
    >.NET平台由微软官方支持，受到成千上万家公司和数百万开发者的信赖。微软在安全问题非常重视，一旦发现威胁，就会迅速发布更新。
 5. 深受开发者喜欢
    >.NET 是一个现代化、创新性、开源的开发平台，深受开发者喜爱。在连续三年（2019年、2020年和2021年）的 Stack Overflow 开发者调查中，.NET 被评为排名第一的最受喜爱的框架。C# 荣获TIOBE 2023年度编程语言。
-## .NET 可以构建哪些类型应用程序
+## .NET可以构建哪些类型应用程序
 ### 思维导图
 ![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/.NETDevelopment.png)
 ### 服务器端应用程序
