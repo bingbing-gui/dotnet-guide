@@ -2,7 +2,7 @@
 
 # 目录
 * [dotnet-guide](#dotnet-guide)
-  * [dotnet介绍](#dotnet介绍)
+  * [.NET介绍](#-NET介绍)
   * [dotnet和dotnet framework的区别](# dotnet和dotnet framework的区别)
   * [为什么要选择dotnet](#为什么要选择dotnet)
   * [dotnet可以构建哪些类型应用程序](#dotnet可以构建哪些类型应用程序)
@@ -10,7 +10,7 @@
   * [通信框架](#通信框架)
 * [引用](#引用)
 
-## dotnet介绍
+## .NET介绍
 .NET是一个免费、开源 & 跨平台的开发框架。
 + 编程语言
   + C#
