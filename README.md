@@ -3,7 +3,7 @@
 # 目录
 * [dotnet-guide](#dotnet-guide)
   * [.NET介绍](#NET介绍)
-  * [dotnet和dotnet framework的区别](# dotnet和dotnet framework的区别)
+  * [.NET和.NET Framework的区别](#NET和.NET-Framework的区别)
   * [为什么要选择dotnet](#为什么要选择dotnet)
   * [dotnet可以构建哪些类型应用程序](#dotnet可以构建哪些类型应用程序)
   * [Windows客户端生态](#Windows客户端生态)
