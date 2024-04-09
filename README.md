@@ -6,7 +6,7 @@
   * [.NET和.NETFramework的区别](#.NET和.NETFramework的区别)
   * [为什么要选择.NET](#为什么要选择.NET)
   * [.NET可以构建哪些类型应用程序](#.NET可以构建哪些类型应用程序)
-  * [Windows 客户端生态](#Windows客户端生态)
+  * [Windows客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
 * [引用](#引用)
 
@@ -161,7 +161,7 @@
 7. [evergine](https://github.com/everdevs)
 8. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
 9. [rbfx](https://github.com/rbfx/rbfx)
-## Windows 客户端生态
+## Windows客户端生态
 ### 思维导图
 ![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/WinClientDevelopment.png)
 ### UI控件库
