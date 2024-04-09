@@ -3,9 +3,9 @@
 # 目录
 * [dotnet-guide](#dotnet-guide)
   * [dotnet介绍](#dotnet介绍)
-  * [.NET和.NETFramework的区别](#.NET和.NETFramework的区别)
-  * [为什么要选择.NET](#为什么要选择.NET)
-  * [.NET可以构建哪些类型应用程序](#.NET可以构建哪些类型应用程序)
+  * [dotnet和dotnet framework的区别](# dotnet和dotnet framework的区别)
+  * [为什么要选择dotnet](#为什么要选择dotnet)
+  * [dotnet可以构建哪些类型应用程序](#dotnet可以构建哪些类型应用程序)
   * [Windows客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
 * [引用](#引用)
@@ -19,7 +19,7 @@
   + Visual Studio
   + Visual Studio Code
   + JetBrains Rider
-## .NET和.NETFramework的区别
+## dotnet和dotnet framework的区别
  |.NET|.NET Framework|
  |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------|
  |运行在Linux、macOS & Windows|仅仅运行在Windows|
@@ -27,7 +27,7 @@
  |持续不断创建！支持更多应用程序类型和高性能交付|安全 & 可靠 仅仅修复bug|
  |不随操作系统一起提供|包含在Windows & 随着Windows而更新|
  |推荐使用开发新的应用程序||
-## 为什么要选择.NET
+## 为什么要选择dotnet
 1. 高效性
    >.NET 提供了像泛型、LINQ 和异步编程等先进的语言特性，以及丰富的类库和多语言支持，为开发者提供了强大的工具。Visual Studio 家族为开发者提供了强大的工具支持，实现了无缝的开发体验，而我们的免费开发者计划则提供了构建和部署应用程序所需的所有资源。
 2. 通用性
@@ -39,7 +39,7 @@
    >.NET平台由微软官方支持，受到成千上万家公司和数百万开发者的信赖。微软在安全问题非常重视，一旦发现威胁，就会迅速发布更新。
 5. 深受开发者喜欢
    >.NET 是一个现代化、创新性、开源的开发平台，深受开发者喜爱。在连续三年（2019年、2020年和2021年）的 Stack Overflow 开发者调查中，.NET 被评为排名第一的最受喜爱的框架。C# 荣获TIOBE 2023年度编程语言。
-## .NET可以构建哪些类型应用程序
+## dotnet可以构建哪些类型应用程序
 ### 思维导图
 ![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/.NETDevelopment.png)
 ### 服务器端应用程序
