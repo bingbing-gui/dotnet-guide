@@ -163,7 +163,7 @@
 7. [evergine](https://github.com/everdevs)
 8. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
 9. [rbfx](https://github.com/rbfx/rbfx)
-## C#编程语言
+## C# 编程语言
 ### [C#编程语言规范](https://github.com/dotnet/csharplang)
 ## Windows客户端生态
 ### 思维导图
