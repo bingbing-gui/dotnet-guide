@@ -6,7 +6,7 @@
   * [.NET和.NET Framework的区别](#NET和NET-Framework的区别)
   * [为什么要选择.NET](#为什么要选择NET)
   * [.NET可以构建哪些类型应用程序](#NET可以构建哪些类型应用程序)
-  * C# 编程语言
+  * [C# 编程语言]()
   * [Windows客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
   * [Excel和CSV处理库](#Excel和CSV处理库)
@@ -163,6 +163,8 @@
 7. [evergine](https://github.com/everdevs)
 8. [FlatRedBall](https://github.com/vchelaru/FlatRedBall)
 9. [rbfx](https://github.com/rbfx/rbfx)
+## C#编程语言
+### [C#编程语言规范](https://github.com/dotnet/csharplang)
 ## Windows客户端生态
 ### 思维导图
 ![image](https://github.com/bingbing-gui/dotnet-guide/blob/main/WinClientDevelopment.png)
