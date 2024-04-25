@@ -6,7 +6,7 @@
   * [.NET和.NET Framework的区别](#NET和NET-Framework的区别)
   * [为什么要选择.NET](#为什么要选择NET)
   * [.NET可以构建哪些类型应用程序](#NET可以构建哪些类型应用程序)
-  * [C\#编程语言](#C)
+  * [C\#编程语言](#C\#编程语言)
   * [Windows客户端生态](#Windows客户端生态)
   * [通信框架](#通信框架)
   * [Excel和CSV处理库](#Excel和CSV处理库)
