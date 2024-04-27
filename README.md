@@ -11,6 +11,7 @@
   * [通信框架](#通信框架)
   * [Excel和CSV处理库](#Excel和CSV处理库)
   * [文件压缩处理库](#文件压缩处理库)
+  * [定时任务处理库](#定时任务处理库)
 * [引用](#引用)
 
 ## .NET介绍
@@ -240,6 +241,11 @@ WebSocket使得客户端和服务器之间的数据交换变得更加简单，�
 2. [sharpcompress](https://github.com/adamhathcock/sharpcompress)
 3. [DotNetZip.Semverd](https://github.com/haf/DotNetZip.Semverd)
 4. [System.IO.Compression](https://learn.microsoft.com/en-us/dotnet/api/system.io.compression?view=net-8.0)
+## 定时任务处理库
+1. [Hangfire](https://github.com/HangfireIO/Hangfire)
+2. [Quartz.NET](https://github.com/quartznet/quartznet)
+3. [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
+4. [System.Threading.Timer类](https://learn.microsoft.com/en-us/dotnet/api/system.io.compression?view=net-8.0)
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
