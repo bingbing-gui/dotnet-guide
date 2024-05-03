@@ -12,6 +12,7 @@
   * [Excel和CSV处理库](#Excel和CSV处理库)
   * [文件压缩处理库](#文件压缩处理库)
   * [定时任务处理库](#定时任务处理库)
+  * [自动化构建工具](#自动化构建工具)
 * [引用](#引用)
 
 ## .NET介绍
@@ -246,6 +247,10 @@ WebSocket使得客户端和服务器之间的数据交换变得更加简单，�
 2. [Quartz.NET](https://github.com/quartznet/quartznet)
 3. [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
 4. [System.Threading.Timer类](https://learn.microsoft.com/en-us/dotnet/api/system.io.compression?view=net-8.0)
+## 自动化构建工具
+1. [msbuild](https://github.com/dotnet/msbuild)
+2. [cake](https://github.com/cake-build/cake)
+3. [nuke](https://github.com/nuke-build/nuke)
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
