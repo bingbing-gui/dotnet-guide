@@ -13,6 +13,7 @@
   * [文件压缩处理库](#文件压缩处理库)
   * [定时任务处理库](#定时任务处理库)
   * [自动化构建工具](#自动化构建工具)
+  * [生成QR第三方库](#生成QR第三方库)
 * [引用](#引用)
 
 ## .NET介绍
@@ -251,6 +252,16 @@ WebSocket使得客户端和服务器之间的数据交换变得更加简单，�
 1. [msbuild](https://github.com/dotnet/msbuild)
 2. [cake](https://github.com/cake-build/cake)
 3. [nuke](https://github.com/nuke-build/nuke)
+## 生成QR第三方库
+### [QRCoder](https://github.com/codebude/QRCoder)
+> QRCoder 是一个用 C#.NET 编写的简单库，可以让你生成 QR 码。它没有任何外部库的依赖，作为 NuGet 包提供，并且支持 .NET Framework、.NET Core、.NET Standard 和 .NET。
+### [ZXing.Net](https://github.com/micjahn/ZXing.Net)
+> 一个支持在图像中解码和生成条形码（如 QR 码、PDF 417、EAN、UPC、Aztec、Data Matrix、Codabar）的库。
+该项目是基于 Java 的条形码读取和生成库 ZXing 的移植版本。https://github.com/zxing/zxing它经过手动移植，并进行了大量优化和改进。
+解码器支持以下条形码：UPC-A、UPC-E、EAN-8、EAN-13、Code 39、Code 93、Code 128、ITF、Codabar、MSI、RSS-14（所有变种）、QR 码、Data Matrix、Aztec 和 PDF-417。编码器支持以下格式：UPC-A、EAN-8、EAN-13、Code 39、Code 128、ITF、Codabar、Plessey、MSI、QR 码、PDF-417、Aztec、Data Matrix
+### [barcodelib](https://github.com/barnhill/barcodelib)
+> 该库旨在为开发人员提供一个简单的类，以便在需要从数据字符串生成条形码图像时使用。
+
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
 2. https://github.com/tbolon/awesome-dotnet-winforms
