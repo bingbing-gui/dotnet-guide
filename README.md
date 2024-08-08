@@ -269,7 +269,7 @@ WebSocket使得客户端和服务器之间的数据交换变得更加简单，�
 >FluentEmail 提供了一个易于使用的 API 来构建和发送电子邮件，支持多种邮件提供程序。API 设计简单，支持多个邮件服务提供商，如 SMTP、SendGrid、MailGun 等
 ### [SendGrid](https://github.com/sendgrid/sendgrid-csharp)
 >SendGrid 提供了一个强大的电子邮件发送平台，适合大规模邮件发送，提供了 .NET SDK。简化邮件发送过程，提供详细的发送统计信息，支持大量邮件发送。
-### [SMTPClient](https://github.com/sendgrid/sendgrid-csharp](https://learn.microsoft.com/en-us/dotnet/api/system.net.mail.smtpclient?view=net-8.0)
+### [SMTPClient](https://learn.microsoft.com/en-us/dotnet/api/system.net.mail.smtpclient?view=net-8.0)
 >如果不需要第三方库，可以直接使用 .NET 自带的 SmtpClient 类。适合简单的邮件发送需求。
 # 引用
 1. https://github.com/Carlos487/awesome-wpf 
